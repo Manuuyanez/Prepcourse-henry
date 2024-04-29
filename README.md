@@ -1,2 +1,2 @@
 # Prepcourse-henry
-Este es un repositorio de prueba del modulo 2 del prepcourse henry
+Hola, mi nombre es Manuel Yañez, este proyecto es una prueba de github
